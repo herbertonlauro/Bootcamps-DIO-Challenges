@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/56ed6ad5-c8c4-4518-b878-1773c1234c3b"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/56ed6ad5-c8c4-4518-b878-1773c1234c3b.svg" alt="wakatime"></a>
+ <!--  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/56ed6ad5-c8c4-4518-b878-1773c1234c3b"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/56ed6ad5-c8c4-4518-b878-1773c1234c3b.svg" alt="wakatime"></a>-->
 </p>
 
 <p align="center">
